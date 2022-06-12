@@ -1,5 +1,2 @@
 /build/*
-/CMakeLists.txt
-/.vscode/*
 /*.bmp
-/sos/*
