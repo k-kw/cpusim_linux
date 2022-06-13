@@ -2,16 +2,16 @@
 #include <cmath>
 #include <time.h>
 
-#include "my_all.h"
-#include "Bmp_class.h"
-#include "complex_array_class.h"
+#include <opencv2/opencv.hpp>
+#include <opencv2/opencv_modules.hpp>
 
-#include <opencv2//opencv_modules.hpp>
-#include <opencv2//opencv.hpp>
 #include <iostream>
 #include <fstream>
 #include <string>
 
+#include "my_all.h"
+#include "Bmp_class.h"
+#include "complex_array_class.h"
 
 using namespace std;
 using namespace cv;
