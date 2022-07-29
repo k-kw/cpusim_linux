@@ -50,7 +50,7 @@ using namespace cv;
 #define approx true    //レンズの式の近似
 
 //ファイルパス
-string binpath = "../../dat/bindat/1byte/fm_28_1.dat";
+string binpath = "../../dat/bindat/fm_28_1.dat";
 string simpath = "../../dat/simdat/SLM_phase/1byte/lsd/test_sim.dat";
 string oriimg = "./mnist.bmp";
 string simimg = "./simout.bmp";
